@@ -162,8 +162,7 @@ msgid "About DuckDuckGo"
 msgstr "O DuckDuckGo"
 
 msgid "About Us"
-msgstr ""
-
+msgstr "O nás"
 #. Ad like 'advertisement'
 msgid "Ad"
 msgstr "Reklama"
@@ -4623,7 +4622,7 @@ msgid "White"
 msgstr "Bílé"
 
 msgid "Who We Are"
-msgstr ""
+msgstr "Kdo jsme"
 
 msgid "Why Privacy"
 msgstr ""
